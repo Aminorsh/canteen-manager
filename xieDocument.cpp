@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "This is xie's document." << endl;
+    cout << "Change xie's document." << endl;
     return 0;
 }
